@@ -1,0 +1,10 @@
+{
+  "name": "all-MiniLM-L6-v2",
+  "type": "sentence-transformer",
+  "format": "onnx",
+  "embedding_size": 384,
+  "max_seq_length": 256,
+  "description": "Lightweight sentence transformer model for embeddings",
+  "version": "1.0.0",
+  "installed_at": "/home/kunj1311/Hyrr/cursor_killer"
+}
